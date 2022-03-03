@@ -1,2 +1,2 @@
 #!/bin/bash
-USERNAME who am i
+whoami
